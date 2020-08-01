@@ -1,3 +1,5 @@
+COMPATIBILIDADE ATÉ PS 1.7.5.X
+
 To Add a new description_long field to a category in Prestashop Category you need 3 steps:
 
 Update DB
